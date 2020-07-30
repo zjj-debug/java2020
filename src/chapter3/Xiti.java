@@ -111,7 +111,8 @@ public class Xiti {
 			i++;
 		}
 		while(i<=100);
-		System.out.println(sum);*/
+		System.out.println(sum);
+		À­°¢À­ÀÙ*/
 		
 		
 		

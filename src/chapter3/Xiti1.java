@@ -19,6 +19,7 @@ public class Xiti1 {
 				else
 				{
 					System.out.print(i+"*");
+					System.out.print(i+"*");
 					
 				}
 				
